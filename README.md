@@ -1,5 +1,7 @@
 # 汇付天下 SDK for PHP  !
 
+# COPY OF [cccdl/adapay_sdk](https://packagist.org/packages/cccdl/adapay_sdk)
+
 ### 主要新特性
 
 * 汇付天下 SDK for PHP
